@@ -24,9 +24,10 @@ tr {
   border-style: hidden !important;
 }
 input {
-  width: 100% !important;
+  width:100% !important;
   border-radius: 10px;
   border: 2px solid whitesmoke !important;
+  color: white;
 }
 button {
   width: 100% !important;
@@ -34,8 +35,16 @@ button {
   border-color: whitesmoke;
   font-weight: bold;
   border-radius: 10px !important;
+  height: 40px;
 }
 h1{
   font-weight: bold !important;
   color: #989898;
+}
+h6 {
+  color: white;
+}
+
+Footer {
+  text-align: center;
 }
